@@ -1,0 +1,3 @@
+In this project, I implemented a simple AI agent that uses an integrated agentic loop.
+The agentic loop provides the foundation for autonomous AI systems by allowing the agent to operate without human intervention.
+It is an iterative process in which the agent generates a prompt, produces a response, executes an action, receives feedback, and continues this cycle until a defined goal or stopping criterion is reached.
