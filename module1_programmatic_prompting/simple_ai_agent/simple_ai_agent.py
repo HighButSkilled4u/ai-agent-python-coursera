@@ -90,3 +90,5 @@ while iterations < max_iterations:
  if action["tool_name"] == "terminate":
     print(action["args"]["message"])
     break
+
+ #Step 7: 
