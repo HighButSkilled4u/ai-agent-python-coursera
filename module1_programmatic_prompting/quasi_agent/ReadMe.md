@@ -1,0 +1,1 @@
+This is not a full functioning agent. We are basically building an a quasi agenet, in which we are able to make programatic prompts and showcase, how the llm can remember prevoius conversations, to better understand user input and to generate better answers for the future.
